@@ -6,15 +6,15 @@
 
 * #### Paradigma
 
-Segun mis conocimientos en la universidad, un paradigma en programación se refiere como a la forma de programar, en como se va realizar una tarea y de que forma se va plantear esta tarea
+Según mis conocimientos en la universidad, un paradigma en programación se refiere como a la forma de programar, en como se va realizar una tarea y de que forma se va plantear esta tarea
 
-Por ejemplo la forma de programar orientado a objetos es un ***estilo*** de programacion, sin embargo existen diferentes, tal como lo es también la programación funcional.
+Por ejemplo la forma de programar orientado a objetos es un ***estilo*** de programación, sin embargo existen diferentes, tal como lo es también la programación funcional.
 
 * #### Abstracción
 
 ##### Por qué decimos que la Clase es el mecanismo de abstracción de los lenguajes OO
 
-Decimos que la clase es un mecanismo de abstracción porque de esta clase obtenemos parametros, que son como caracteristicas que lo hacen unico y que recolectan diferente información.
+Decimos que la clase es un mecanismo de abstracción porque de esta clase obtenemos parametros, que son como características que lo hacen único y que recolectan diferente información.
 
 La ***abstracción*** , es una actividad cerebral que se emplea para comprender la complejidad del mundo y tener un panorama claro de la realidad. Para ello, se captan los atributos, funciones y características generales de un objeto.
 
