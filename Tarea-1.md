@@ -44,6 +44,8 @@ En los lenguajes estructurados esto era imposible. Es evidente que el encapsulam
 
 Herencia para mí es como **pasarle** los datos a algo mas, por ejemplo; si **carro** tiene ***color, marca y velocidad*** y supongamos que tenemos otro objeto que se llame **bicicleta** podemos heredar estos mismos parametros, pues bicicleta tambien tendria esta informacion aunque sea diferente.
 
+![Imagen](./img/diagramaobj.png)
+
 ***
 
 ### **Diagrama De Clases**
