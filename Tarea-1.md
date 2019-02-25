@@ -39,22 +39,21 @@ La ***abstracción*** , es una actividad cerebral que se emplea para comprender 
 Consiste en unir en la Clase las características y comportamientos, esto es, las variables y métodos. Es tener todo esto en una sola entidad.
 
 En los lenguajes estructurados esto era imposible. Es evidente que el encapsulamiento se logra gracias a la abstracción. La utilidad del encapsulamiento va por la facilidad para manejar la complejidad, ya que tendremos a las Clases como cajas rojas donde sólo se conoce el comportamiento pero no los detalles internos, y esto es conveniente porque nos interesará conocer que hace la Clase pero no será necesario saber cómo lo hace.
-/* spell-checker: disable */
+<!-- /* spell-checker: disable */ -->
 ![Encapsulamiento](./img/encap.png)
-/* spell-checker: enable */
+<!-- /* spell-checker: enable */ -->
 
 #### Herencia
 
 Herencia para mí es como **mudar** los datos a algo mas, por ejemplo; si **carro** tiene ***color, marca y velocidad*** y supongamos que tenemos otro objeto que se llame **bicicleta** podemos heredar estos mismos parámetros, pues bicicleta también tendría esta información aunque sea diferente.
 
-/* spell-checker: disable */
+<!-- /* spell-checker: disable */ -->
 ![Imagen](./img/diagramaobj.png)
-/* spell-checker: enable */
-***
+<!-- /* spell-checker: enable */ -->
 
 ### **Diagrama De Clases**
 
-* #### Historia
+* #### Historia examen
 
 El Lenguaje Unificado de Modelado (UML) fue creado para forjar un lenguaje de modelado visual común y semántica y sintácticamente rico para la arquitectura, el diseño y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento. UML tiene aplicaciones más allá del desarrollo de software, p. ej., en el flujo de procesos en la fabricación.
 
