@@ -67,4 +67,17 @@ UML no es un lenguaje de programación, pero existen herramientas que se pueden 
 | ------------- |:-------------| :-----|
 | Grady Booch (27 de febrero de 1955) es un diseñador de software, un metodologista de software y entusiasta del diseño de patrones. Es director científico de Rational Software (ahora parte de IBM) y editor de una serie de Benjamin/Cummings. En 1995 se recibió como miembro de la Asociación de Maquinaria Computacional (ACM). Fue nombrado socio de IBM en 2003.| James Rumbaugh (22 de agosto de 1947) es un científico de la computación y un metodologista de objeto. Es más conocido por su trabajo en la creación de la Técnica de Modelado de Objetos y el Lenguaje Unificado de Modelado (UML). Doctorado en ciencias de la computación por el M.I.T. Rumbaugh dirigió el desarrollo de la metodología OMT, en el Centro de Investigación y Desarrollo de la General Electric, donde trabajó durante más de 25 años. Se unió a Rational Software en 1994, y trabajó allí con Ivar Jacobson y Grady Booch ("los Tres Amigos") para desarrollar UML. Más tarde fusionaron sus metodologías de desarrollo de software, OMT, OOSE y Booch en el Proceso Unificado Racional (RUP). En el 2003 se trasladó a IBM, después de su adquisición de Rational Software. Se retiró en 2006. |Ivar Hjalmar Jacobson (2 de septiembre 1939, Ystad - ), es un ingeniero sueco en Ciencias de la computación. Inventó el diagrama de secuencia y desarrolló los diagramas de colaboración. También impuso el uso de diagramas de estado de transición para describir los flujos de mensajes entre los componentes. Fue uno de los desarrolladores originales del SDL (lenguaje de especificación), que se convirtió en estándar en 1967.
 
+Estas son las cinco herramientas UML que probaría en primer lugar (sin ningún orden in particular).
+
+**MagicDraw:** Me encanta su usabilidad. Pero aún me gusta más su motor de ejecución de modelos UML. NoMagic (la empresa detrás MagicDraw) ha sido comprada por Dassault Systems. Es de prever que, como consecuencia, MagicDraw siga mejorando en todo lo que se refiere a la ingeniería de sistemas donde este tipo de simulaciones a partir de modelos es clave.
+
+**Papyrus UML**. El entorno de modelado estándar “de facto” en Eclipse. Gratuito y open source, Papyrus es sin duda la mejor opción si trabajas con Eclipse o necesitas integrar tus modelos con otros plug-ins de Eclipse como parte de tu proceso de desarrollo. Te acepto que Papyrus no es la herramienta más intuitiva ni fácil de usar pero se está esforzando para revertir la situación. Por ejemplo, recientemente ha sacado versiones especializadas para escenarios de uso concretos (e.g. Papyrus for Information Modeling o Papyrus for real-time).
+Modelio. 
+
+Herramienta muy potente, organizada en un núcleo open source al que se le pueden añadir funcionalidades mediante un sistema de extensión modular. Algunos de los modelos son también gratuitos pero muchos son ya extensiones comerciales,disponibles en la modelio store. Esta estructuración te permite adaptar la herramienta a tus necesidades de modelado UML. Por ejemplo, puedes empezar modelando gratis tu sistema y si luego decides utilizar esos modelos para generar código para la plataforma que sea, comprar la extensión correspondiente.
+
+***
+
 * #### Propuesta
+
+![UML](img\MaquinaVende.png)
