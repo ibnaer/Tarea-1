@@ -80,4 +80,4 @@ Herramienta muy potente, organizada en un núcleo open source al que se le puede
 
 * #### Propuesta
 
-![UML](img\MaquinaVende.png)
+![UML](./img/MaquinaVende.png)
