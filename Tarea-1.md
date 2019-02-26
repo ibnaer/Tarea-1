@@ -80,4 +80,5 @@ Herramienta muy potente, organizada en un núcleo open source al que se le puede
 
 * #### Propuesta
 
+*Las Lineas, **SON SOLAMENTE LINEAS**, IGNORAR LAS FLECHAS**
 ![UML](./img/MaquinaVende.png)
