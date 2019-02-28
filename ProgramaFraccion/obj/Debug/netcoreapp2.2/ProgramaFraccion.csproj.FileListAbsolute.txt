@@ -1,0 +1,11 @@
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\bin\Debug\netcoreapp2.2\ProgramaFraccion.deps.json
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\bin\Debug\netcoreapp2.2\ProgramaFraccion.runtimeconfig.json
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\bin\Debug\netcoreapp2.2\ProgramaFraccion.runtimeconfig.dev.json
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\bin\Debug\netcoreapp2.2\ProgramaFraccion.dll
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\bin\Debug\netcoreapp2.2\ProgramaFraccion.pdb
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\obj\Debug\netcoreapp2.2\ProgramaFraccion.csprojAssemblyReference.cache
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\obj\Debug\netcoreapp2.2\ProgramaFraccion.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\obj\Debug\netcoreapp2.2\ProgramaFraccion.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\obj\Debug\netcoreapp2.2\ProgramaFraccion.AssemblyInfo.cs
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\obj\Debug\netcoreapp2.2\ProgramaFraccion.dll
+C:\Users\Erick\Documents\GitHub\Tarea-1\ProgramaFraccion\obj\Debug\netcoreapp2.2\ProgramaFraccion.pdb
